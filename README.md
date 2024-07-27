@@ -34,7 +34,6 @@ I am an experienced Full Stack Developer with a passion for crafting visually ap
 
 ## Let's get in touch 😁
 
-[<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/iolivera1)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iolivera1/)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto:iolivera14@outlook.com)
 
